@@ -1,6 +1,6 @@
 # AutoRebuffer
 
-Steps: <br/><br/>
+Steps: <br/>
 1. Create Account at https://buffer.com/developers/ <br/>
 2. Rename config.rb.sample and fill with your credential <br/>
 3. Run bundle install <br/>
