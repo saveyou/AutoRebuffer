@@ -1,5 +1,5 @@
 require 'buffer'
-require './config'
+require_relative './config'
 
 client  = Buffer::Client.new(BUFFER_ACCESS_TOKEN)
 updates = []
